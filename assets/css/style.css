@@ -11888,7 +11888,7 @@ table.woocommerce-grouped-product-list.group_table td {
 }
 
 .pt-80 {
-  padding-top: 80px;
+  padding-top: 50px;
 }
 
 .pt-85 {
@@ -11969,7 +11969,7 @@ table.woocommerce-grouped-product-list.group_table td {
 }
 
 .pb-80 {
-  padding-bottom: 80px;
+  padding-bottom: 50px;
 }
 
 .pb-85 {
@@ -14048,7 +14048,7 @@ table.woocommerce-grouped-product-list.group_table td {
   }
 
   .pt-80 {
-    padding-top: 60px;
+    padding-top: 30px;
 }
 .pt-200 {
     padding-top: 60px;
@@ -14074,6 +14074,9 @@ table.woocommerce-grouped-product-list.group_table td {
 .dnn {
 
   display: none;
+}
+.pt-90 {
+    padding-top: 30px;
 }
 .fss {
 
