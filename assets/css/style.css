@@ -6758,6 +6758,16 @@ blockquote.wp-block-quote.has-text-align-right cite:before {
   .vs-feature-box2:last-child {
     border-bottom: none;
   }
+
+  .ptt {
+    padding-top: 20px !important;
+  }
+  .pbb {
+    padding-bottom: 20px !important;
+  }
+  .taj {
+    text-align: justify;
+  }
 }
 /*------------------- 8.14. Product  -------------------*/
 .product-big-img {
@@ -9083,7 +9093,7 @@ blockquote.wp-block-quote.has-text-align-right cite:before {
     margin-top: 15px;
   }
   .newsletter-style3 {
-    padding: 60px 20px;
+    padding: 60px 20px 30px 20px;
   }
   .newsletter-style3 .form-control {
     height: 50px;
@@ -14077,6 +14087,9 @@ table.woocommerce-grouped-product-list.group_table td {
 }
 .pt-90 {
     padding-top: 30px;
+}
+.form-title {
+  font-size: 26px;
 }
 .fss {
 
